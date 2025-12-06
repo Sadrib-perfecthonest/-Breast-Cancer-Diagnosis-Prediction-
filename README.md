@@ -54,7 +54,7 @@ Balanced enough for machine learning, but still with slight class imbalance.
 - **matplotlib**, **seaborn** – Visualization  
 - **scikit-learn** – ML algorithms (KNN, K-Means, scaling, splitting)  
 - **joblib** – Model saving  
-- **Flask**, **HTML**, **CSS** – Deployment  
+- **Flask**, **HTML**, **CSS** – Web Interface 
 
 ---
 
